@@ -1,4 +1,4 @@
-## Internxt FrontEnd technical test
+## FrontEnd technical test
 
 ### Usage/installation instructions
 
