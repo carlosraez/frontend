@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainScreen tests should getDataPhotoAlbun should be return a list off images 1`] = `
+<div>
+  <img
+    alt="foto1"
+    src="https://media.gettyimages.com/photos/two-medicine-lake-sunrise-picture-id827422252?s=612x612"
+  />
+  <img
+    alt="foto2"
+    src="https://media.gettyimages.com/photos/two-medicine-lake-sunrise-picture-id827422252?s=612x612"
+  />
+</div>
+`;

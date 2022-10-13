@@ -1,0 +1,17 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin: 1px; 
+  }
+   
+  @media only screen and (min-width: 375px) {
+    .container {
+      margin: 8px; 
+    }
+  }
+  
+  @media only screen and (min-width: 600px) {
+    .container {
+      margin: 16px; 
+    }
+  }

@@ -1,0 +1,21 @@
+img {
+    margin: 1px;
+    width: 136.67px;
+    height: 136.67px;
+}
+
+@media only screen and (min-width: 375px) {
+    img {
+      margin: 8px;
+      width: 188.5px;
+      height: 188.5px;
+    }
+  }
+
+@media only screen and (min-width: 600px) {
+    img {
+      margin: 16px;
+      width: 320px;
+      height: 320px;
+    }
+  }
